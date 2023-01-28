@@ -1,0 +1,23 @@
+# Node ignores
+node_modules/
+
+# App ignore
+build/
+dist/
+.env
+
+.nyc_output
+
+# EdgeDB ignores
+dbschema/
+edgedb/
+
+#Logging
+log
+
+package.lock
+
+src/public
+
+ssl
+package-lock.json
